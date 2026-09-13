@@ -1,0 +1,1711 @@
+[1] [string] 	Wym:
+[2] [string] 
+				 .@%(/*,.......      ...,,*/(#%&@@.
+			 (*   ,/(#%%&&@@@@&%((////(((##%###((/**,,.     ,//(&.
+		   /* .%@@@@@@@@%,  .(&@@@&&&&&&@@@@@@&#(*,........*%@@@(.  ,#.
+		 */ .&@@@@@@@*  (%,   *(&&@@@@@&%(*,.             .,*(#%(*@@&*  *,
+		#, /@@@@@@* *&( ,&&/.,/#%&&@@@&(&@@@@@@@@@@@@#*,.....,/&@@@@@@@@( .%
+	   #  #@@@@@*/@% .#%./(,.,/*,//*,.,/(*@@@@@@@@@@@@%@@@@@@@@@#.#@@@@@@&. %
+	  /  &@@@@@@@@(%@# *&&*&@@@@#/&@@@@/%%.,%@@@@@@@%/@@&(,  ,,,...  *%@@@# *
+	#  .&@@@@@@@@@@@,((%@@@@@#.    ,&@@#@@&* .&@@@@@&,.#@@@@/&@@%(@@@&(/,(&, /,
+ (/   (@&&&%&@@@&/, ,@#(@@@@,        #@@/,&@& /@@@@@,%#%@@@@@(     *@@@@@&,%%. .
+/  #/,#@@@&#(//#@@@/ %@@@&@@@(.    ,&@@(.*/*  %@@*   %@@@@@@%       (@@&(*...%&.
+ ///@@&,  (&@@#,   /@/ ,*&@@@@#&@@%#%((%@&* /@@@@@@&. #@@@#&@@@&%%@@@@@@&,/(*@/#
+%%.&@# .&@@@# /@@@@%&@@@&/.   ,/((/*,  ./&@@@@@@@@@@,*&(./%@@#*&@@@(#(....,&#*@/
+@%.&& .&@@@&*    /&@@@@@@@@@@@@@@@@&@@#/(%@@@@@@@@@@&,  (@@@@@@@@@@@@/,@@@@@#.&*
+&&,%% .&*    /@@@(.  ,(@@@@@&/(////#( /&@@@@@@@@@@@@@@@(  ,&@@@@@@@@&, (@@&*/@(/
+.%*#@( /@@@@( *@@@@@@/     *%@@@@@@@&.,@& ,#, .&@@@@@@# .#*%&/,#@@@@*   *@@&/*&*
+ .&/.#@@@@@@@,   *&@@%.,&@@&(,    ,(%@%&@@@@@@@@@(.*,  /@@@@@@@@@&,      %@@@@..
+@* .%@@@@@@@@(       .   (@@@@@@@@(       .*(%&@@@@@@@@@@@@&(,  ./.*@%   /@@% ./
+  @* .&@@@@@@&.             ./&@@@*.&@@@@@@@&, ,**,.    .,*(&(.%@@# %@*  ,@@% ,#
+	&, /@@@@@@*                    .#@@@@@@@@*.%@@@@@(,@@@@@@& ,%(.      .&@% ,#
+	  / *@@@@@#                                                           %@&.,#
+	  (( .&@@@@*                                                          #@&.,#
+	   .&. ,&@@@,                                                         (@&.,#
+		  #. .%@@* /@@/                                                   /@&.,(
+			./  #@%. %@&,,#,                                              /@@,./
+			  *(  #@%. . (@@@@@%/,                                        /@@,.*
+				//  %@&, *@@@@@@@@( (@%/.                                 #@@, (
+				  #* .&@@#. (@@@@&.*@@@@@@@@%. */.                  *..%*.&@@, /
+					@* .%@@@%, ,/ .@@@@@@@@@@,.%@@@@@% .&@@@* #@&..&@*,* %@@&. *
+					   /  *&@@@@%,   *(&@@@@&. #@@@@@* #@@@% (@@* ,.   /@@@@* (
+						 @#. .#@@@@@@&(,.                      .,*(%&@@@@@&..(
+							 &(.   ./%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@(. ((
+								  ,#/*.       ..,,,,,,,,....          ,/#
+
+
+[3] [string] 
+                                                                                  
+                                                                                  
+FFFFFFFFFFFFFFFFFFFFFF                        444444444                           
+F::::::::::::::::::::F                       4::::::::4                           
+F::::::::::::::::::::F                      4:::::::::4                           
+FF::::::FFFFFFFFF::::F                     4::::44::::4                           
+  F:::::F       FFFFFF eeeeeeeeeeee       4::::4 4::::4  rrrrr   rrrrrrrrr        
+  F:::::F            ee::::::::::::ee    4::::4  4::::4  r::::rrr:::::::::r       
+  F::::::FFFFFFFFFF e::::::eeeee:::::ee 4::::4   4::::4  r:::::::::::::::::r      
+  F:::::::::::::::Fe::::::e     e:::::e4::::444444::::444rr::::::rrrrr::::::r     
+  F:::::::::::::::Fe:::::::eeeee::::::e4::::::::::::::::4 r:::::r     r:::::r     
+  F::::::FFFFFFFFFFe:::::::::::::::::e 4444444444:::::444 r:::::r     rrrrrrr     
+  F:::::F          e::::::eeeeeeeeeee            4::::4   r:::::r                 
+  F:::::F          e:::::::e                     4::::4   r:::::r                 
+FF:::::::FF        e::::::::e                    4::::4   r:::::r                 
+F::::::::FF         e::::::::eeeeeeee          44::::::44 r:::::r                 
+F::::::::FF          ee:::::::::::::e          4::::::::4 r:::::r                 
+FFFFFFFFFFF            eeeeeeeeeeeeee          4444444444 rrrrrrr                 
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+
+
+[4] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Elements.Caption:159
+ReplicatedStorage.Packages.TopbarPlus:989 function setCaption
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:175
+
+[5] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Elements.Caption:258
+ReplicatedStorage.Packages.TopbarPlus:989 function setCaption
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:175
+
+[6] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Elements.Caption:263
+ReplicatedStorage.Packages.TopbarPlus:989 function setCaption
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:175
+
+[7] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Elements.Caption:268
+ReplicatedStorage.Packages.TopbarPlus:989 function setCaption
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:175
+
+[8] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Elements.Caption:299
+ReplicatedStorage.Packages.TopbarPlus:989 function setCaption
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:175
+
+[9] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Elements.Widget:401
+ReplicatedStorage.Packages.TopbarPlus:252 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[10] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Elements.Widget:401
+ReplicatedStorage.Packages.TopbarPlus:252 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[11] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Elements.Widget:44
+ReplicatedStorage.Packages.TopbarPlus:252 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[12] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Elements.Widget:44
+ReplicatedStorage.Packages.TopbarPlus:252 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[13] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Features.Themes:265 function set
+ReplicatedStorage.Packages.TopbarPlus:675 function setTheme
+ReplicatedStorage.Packages.TopbarPlus:264 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[14] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Features.Themes:265 function set
+ReplicatedStorage.Packages.TopbarPlus:675 function setTheme
+ReplicatedStorage.Packages.TopbarPlus:264 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[15] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Utility:152 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus:1065 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus.Elements.Caption:153
+ReplicatedStorage.Packages.TopbarPlus:989 function setCaption
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:175
+
+[16] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Utility:156 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus:1065 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus.Elements.Caption:153
+ReplicatedStorage.Packages.TopbarPlus:989 function setCaption
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:175
+
+[17] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Utility:159 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus:1065 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus.Elements.Caption:153
+ReplicatedStorage.Packages.TopbarPlus:989 function setCaption
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:175
+
+[18] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Utility:189 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus:1065 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus.Elements.Caption:153
+ReplicatedStorage.Packages.TopbarPlus:989 function setCaption
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:175
+
+[19] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Utility:215 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus:1065 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus.Elements.Caption:153
+ReplicatedStorage.Packages.TopbarPlus:989 function setCaption
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:175
+
+[20] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Utility:316 function trackProperty
+ReplicatedStorage.Packages.TopbarPlus.Utility:345 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus:1065 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus.Elements.Caption:153
+ReplicatedStorage.Packages.TopbarPlus:989 function setCaption
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:175
+
+[21] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Utility:317 function trackProperty
+ReplicatedStorage.Packages.TopbarPlus.Utility:345 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus:1065 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus.Elements.Caption:153
+ReplicatedStorage.Packages.TopbarPlus:989 function setCaption
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:175
+
+[22] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Utility:330 function trackProperty
+ReplicatedStorage.Packages.TopbarPlus.Utility:345 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus:1065 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus.Elements.Caption:153
+ReplicatedStorage.Packages.TopbarPlus:989 function setCaption
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:175
+
+[23] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Utility:336 function trackProperty
+ReplicatedStorage.Packages.TopbarPlus.Utility:345 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus:1065 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus.Elements.Caption:153
+ReplicatedStorage.Packages.TopbarPlus:989 function setCaption
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:175
+
+[24] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Utility:348 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus:1065 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus.Elements.Caption:153
+ReplicatedStorage.Packages.TopbarPlus:989 function setCaption
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:175
+
+[25] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus.Utility:358 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus:1065 function clipOutside
+ReplicatedStorage.Packages.TopbarPlus.Elements.Caption:153
+ReplicatedStorage.Packages.TopbarPlus:989 function setCaption
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:175
+
+[26] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:182 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[27] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:182 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[28] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:183 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[29] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:183 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[30] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:184 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[31] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:184 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[32] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:185 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[33] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:185 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[34] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:186 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[35] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:186 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[36] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:187 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[37] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:187 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[38] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:192 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[39] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:192 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[40] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:197 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[41] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:197 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[42] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:198 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[43] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:198 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[44] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:199 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[45] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:199 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[46] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:200 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[47] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:200 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[48] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:201 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[49] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:201 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[50] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:202 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[51] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:202 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[52] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:203 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[53] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:203 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[54] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:204 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[55] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:204 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[56] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:205 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[57] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:205 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[58] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:206 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[59] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:206 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[60] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:207 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[61] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:207 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[62] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:208 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[63] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:208 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[64] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:209 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[65] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:209 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[66] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:210 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[67] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:210 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[68] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:211 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[69] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:211 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[70] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:212 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[71] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:212 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[72] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:213 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[73] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:213 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[74] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:214 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[75] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:214 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[76] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:215 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[77] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:215 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[78] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:216 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[79] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:216 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[80] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:217 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[81] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:217 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[82] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:218 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[83] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:218 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[84] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:219 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[85] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:219 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[86] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:220 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[87] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:220 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[88] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:252 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[89] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:252 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[90] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:304 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[91] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:304 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[92] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:344 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[93] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:344 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[94] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:373 function new
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:170
+
+[95] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:373 function new
+ReplicatedStorage.Controllers.SettingsController:35
+
+[96] [string] 
+ReplicatedStorage.Packages.TopbarPlus.Packages.Janitor:95 function Add
+ReplicatedStorage.Packages.TopbarPlus:989 function setCaption
+ReplicatedStorage.Controllers.BackpackController.Utils.Satchel:175
+
+[97] [string]  --[[%s]] return setfenv(function(...) return %s(...) end, setmetatable({ ["%s"] = ... }, { __index = getfenv((...)) })) 
+[98] [string] !!!!!
+[99] [string] !9r=9534
+[100] [string] $%*/s
+[101] [string] %÷Qkù"<~f
+[102] [string] 'setfenv' cannot change environment of given object
+[103] [string] (internal)
+[104] [string] 04b47400-3031-434a-b810-057533cb2401
+[105] [string] 1083
+[106] [string] 10x
+[107] [string] 12x
+[108] [string] 14555
+[109] [string] 15x
+[110] [string] 19
+[111] [string] 20x
+[112] [string] 25x
+[113] [string] 272679e4-ab14-41ce-aec9-fd5ac661658f
+[114] [string] 2881f71e-1d25-4093-933b-e7206624ac9e
+[115] [string] 2c2ab3da-d4a9-4bc1-8b3c-2680577ccdd8
+[116] [string] 2x
+[117] [string] 2x Money
+[118] [string] 2xMoney
+[119] [string] 2xMoneyBoost
+[120] [string] 30x
+[121] [string] 35x
+[122] [string] 3ce04c41-b21f-4b2a-b93a-037427eac16d
+[123] [string] 3d3ab689-343b-4632-8337-3ee5eb6e505e
+[124] [string] 4170d683-9d81-455d-9d51-6e248624f863
+[125] [string] 433
+[126] [string] 466b381b-6d07-460a-a32f-90384386c409
+[127] [string] 4x
+[128] [string] 56337505-c319-4609-951a-4072bbbc89d0
+[129] [string] 5f3220fd-2e23-4b39-95cd-7c0e4e6e9536
+[130] [string] 6x
+[131] [string] 7b3fb469-63ea-4230-b780-4c0ebf38f5d0
+[132] [string] 8x
+[133] [string] 8xServerLuckEnabled
+[134] [string] 971
+[135] [string] 9l]sMGpo
+[136] [string] 9mwlpOpj
+[137] [string] : 
+[138] [string] :(%d+)[:
+]
+[139] [string] <i8
+[140] [string] =[C]
+[141] [string] AF
+[142] [string] AbsoluteCanvasSize
+[143] [string] Active
+[144] [string] ActiveEvents
+[145] [string] Add
+[146] [string] AddTag
+[147] [string] AdjustSpeed
+[148] [string] Af
+[149] [string] Aj
+[150] [string] AncestryChanged
+[151] [string] AnchorPoint
+[152] [string] Anchored
+[153] [string] AnimalClient/UseNormalWelds
+[154] [string] AnimalList
+[155] [string] AnimalModel
+[156] [string] AnimalOverhead
+[157] [string] AnimalPodiums
+[158] [string] AnimationController
+[159] [string] Animator
+[160] [string] ApplyMutation
+[161] [string] ApplyTraits
+[162] [string] AspectRatio
+[163] [string] Attachment
+[164] [string] AutoDeselect
+[165] [string] BF
+[166] [string] Back
+[167] [string] BackgroundColor3
+[168] [string] BackgroundTransparency
+[169] [string] BackroomsInside
+[170] [string] BasePart
+[171] [string] Bf
+[172] [string] Bj
+[173] [string] BlackfridaySale/EndTimestamp
+[174] [string] BlockEndTime
+[175] [string] BlockEndTimeFirstFloor
+[176] [string] BlockEndTimeSecondFloor
+[177] [string] BlockEndTimeThirdFloor
+[178] [string] BlockedDelayTime
+[179] [string] BoostExpiration
+[180] [string] Boppin Bunny
+[181] [string] BorderSize
+[182] [string] Box
+[183] [string] BrainrotTrader-Los Admins-623
+[184] [string] BrainrotTrader-Los Admins-639
+[185] [string] BrainrotTrader-Los Admins-647
+[186] [string] BrainrotTrader-Los Cornis-609
+[187] [string] BrainrotTrader-Los Cornis-612
+[188] [string] BrainrotTrader-Los Cornis-613
+[189] [string] BrainrotTrader-Los Cornis-614
+[190] [string] BrainrotTrader-Los Cornis-615
+[191] [string] BrainrotTrader-Los Cornis-618
+[192] [string] BrainrotTrader-Los Cornis-621
+[193] [string] BrainrotTrader-Los Cornis-622
+[194] [string] BrainrotTrader-Los Cornis-623
+[195] [string] BrainrotTrader-Los Cornis-625
+[196] [string] BrainrotTrader-Los Cornis-626
+[197] [string] BrainrotTrader-Los Cornis-627
+[198] [string] BrainrotTrader-Los Cornis-628
+[199] [string] BrainrotTrader-Los Cornis-629
+[200] [string] BrainrotTrader-Los Cornis-630
+[201] [string] BrainrotTrader-Los Cornis-631
+[202] [string] BrainrotTrader-Los Cornis-632
+[203] [string] BrainrotTrader-Los Cornis-633
+[204] [string] BrainrotTrader-Los Cornis-635
+[205] [string] BrainrotTrader-Los Cornis-636
+[206] [string] BrainrotTrader-Los Cornis-638
+[207] [string] BrainrotTrader-Los Cornis-639
+[208] [string] BrainrotTrader-Los Cornis-640
+[209] [string] BrainrotTrader-Los Cornis-641
+[210] [string] BrainrotTrader-Los Cornis-643
+[211] [string] BrainrotTrader-Los Cornis-644
+[212] [string] BrainrotTrader-Los Cornis-645
+[213] [string] BrainrotTrader-Los Cornis-646
+[214] [string] BrainrotTrader-Los Cornis-647
+[215] [string] BrainrotTrader-Los Cornis-648
+[216] [string] BrainrotTrader-Los Cornis-650
+[217] [string] BrainrotTrader-Los Cornis-651
+[218] [string] BrainrotTrader-Los Cornis-652
+[219] [string] BrainrotTrader-Los Cornis-653
+[220] [string] BrainrotTrader-Los Cornis-654
+[221] [string] BrainrotTrader-Los Cornis-656
+[222] [string] BrainrotTrader-Los Sigmas-609
+[223] [string] BrainrotTrader-Los Sigmas-610
+[224] [string] BrainrotTrader-Los Sigmas-611
+[225] [string] BrainrotTrader-Los Sigmas-612
+[226] [string] BrainrotTrader-Los Sigmas-613
+[227] [string] BrainrotTrader-Los Sigmas-614
+[228] [string] BrainrotTrader-Los Sigmas-616
+[229] [string] BrainrotTrader-Los Sigmas-617
+[230] [string] BrainrotTrader-Los Sigmas-618
+[231] [string] BrainrotTrader-Los Sigmas-619
+[232] [string] BrainrotTrader-Los Sigmas-620
+[233] [string] BrainrotTrader-Los Sigmas-621
+[234] [string] BrainrotTrader-Los Sigmas-624
+[235] [string] BrainrotTrader-Los Sigmas-626
+[236] [string] BrainrotTrader-Los Sigmas-627
+[237] [string] BrainrotTrader-Los Sigmas-630
+[238] [string] BrainrotTrader-Los Sigmas-631
+[239] [string] BrainrotTrader-Los Sigmas-634
+[240] [string] BrainrotTrader-Los Sigmas-635
+[241] [string] BrainrotTrader-Los Sigmas-636
+[242] [string] BrainrotTrader-Los Sigmas-637
+[243] [string] BrainrotTrader-Los Sigmas-638
+[244] [string] BrainrotTrader-Los Sigmas-639
+[245] [string] BrainrotTrader-Los Sigmas-640
+[246] [string] BrainrotTrader-Los Sigmas-642
+[247] [string] BrainrotTrader-Los Sigmas-643
+[248] [string] BrainrotTrader-Los Sigmas-644
+[249] [string] BrainrotTrader-Los Sigmas-645
+[250] [string] BrainrotTrader-Los Sigmas-646
+[251] [string] BrainrotTrader-Los Sigmas-650
+[252] [string] BrainrotTrader-Los Sigmas-651
+[253] [string] BrainrotTrader-Los Sigmas-653
+[254] [string] BrainrotTrader-Los Sigmas-654
+[255] [string] BrainrotTrader-Los Sigmas-655
+[256] [string] BrainrotTrader-Los Sigmas-656
+[257] [string] BrainrotTrader-Los Tangcitos-610
+[258] [string] BrainrotTrader-Los Tangcitos-616
+[259] [string] BrainrotTrader-Los Tangcitos-620
+[260] [string] BrainrotTrader-Los Tangcitos-622
+[261] [string] BrainrotTrader-Los Tangcitos-624
+[262] [string] BrainrotTrader-Los Tangcitos-627
+[263] [string] BrainrotTrader-Los Tangcitos-628
+[264] [string] BrainrotTrader-Los Tangcitos-629
+[265] [string] BrainrotTrader-Los Tangcitos-632
+[266] [string] BrainrotTrader-Los Tangcitos-633
+[267] [string] BrainrotTrader-Los Tangcitos-634
+[268] [string] BrainrotTrader-Los Tangcitos-635
+[269] [string] BrainrotTrader-Los Tangcitos-638
+[270] [string] BrainrotTrader-Los Tangcitos-641
+[271] [string] BrainrotTrader-Los Tangcitos-642
+[272] [string] BrainrotTrader-Los Tangcitos-644
+[273] [string] BrainrotTrader-Los Tangcitos-649
+[274] [string] BrainrotTrader-Los Tangcitos-650
+[275] [string] BrainrotTrader-Los Tangcitos-652
+[276] [string] BrainrotTrader-Los Tangcitos-656
+[277] [string] BrainrotTrader-Los Tictacs-611
+[278] [string] BrainrotTrader-Los Tictacs-612
+[279] [string] BrainrotTrader-Los Tictacs-613
+[280] [string] BrainrotTrader-Los Tictacs-614
+[281] [string] BrainrotTrader-Los Tictacs-617
+[282] [string] BrainrotTrader-Los Tictacs-619
+[283] [string] BrainrotTrader-Los Tictacs-621
+[284] [string] BrainrotTrader-Los Tictacs-625
+[285] [string] BrainrotTrader-Los Tictacs-626
+[286] [string] BrainrotTrader-Los Tictacs-630
+[287] [string] BrainrotTrader-Los Tictacs-637
+[288] [string] BrainrotTrader-Los Tictacs-645
+[289] [string] BrainrotTrader-Los Tictacs-647
+[290] [string] BrainrotTrader-Los Tictacs-648
+[291] [string] BrainrotTrader-Los Tictacs-649
+[292] [string] BrainrotTrader-Los Tictacs-651
+[293] [string] BrainrotTrader-Los Tictacs-652
+[294] [string] BrainrotTrader-Los Tictacs-655
+[295] [string] BrainrotTrader-Rubiko and Kubiko-616
+[296] [string] BrainrotTrader-Rubiko and Kubiko-625
+[297] [string] BrainrotTrader-Rubiko and Kubiko-633
+[298] [string] BrainrotTrader-Rubiko and Kubiko-643
+[299] [string] BrainrotTrader-Rubiko and Kubiko-644
+[300] [string] BrainrotTrader-Rubiko and Kubiko-653
+[301] [string] BreakJointsOnDeath
+[302] [string] Bufalino Boomberino
+[303] [string] C0
+[304] [string] C1
+[305] [string] CF
+[306] [string] CFrame
+[307] [string] CanCollide
+[308] [string] CanQuery
+[309] [string] CanTouch
+[310] [string] Capitano Americano
+[311] [string] Caption
+[312] [string] CaptionCorner
+[313] [string] CaptionText
+[314] [string] Caret
+[315] [string] CaylusTruckRestock
+[316] [string] Caylusaurus
+[317] [string] Center
+[318] [string] ChatActive
+[319] [string] ChildAdded
+[320] [string] ChildRemoved
+[321] [string] ChristmasWheel-La Jolly Grande
+[322] [string] Cj
+[323] [string] ClassName
+[324] [string] Clean
+[325] [string] ClickRegion
+[326] [string] Clickerino Crabo-20260725-1000
+[327] [string] Clipped
+[328] [string] ClippedClone
+[329] [string] ClipsDescendants
+[330] [string] Clone
+[331] [string] Collector
+[332] [string] Color
+[333] [string] Connect
+[334] [string] Connected
+[335] [string] Contents
+[336] [string] ContentsList
+[337] [string] ContentsList-HorizontalAlignment
+[338] [string] CoreGuiType
+[339] [string] CornerRadius
+[340] [string] Cost
+[341] [string] CraftingMachine
+[342] [string] CreateClientWeld
+[343] [string] Cupcake Koala-20260725-1000
+[344] [string] CurrentlyCleaning
+[345] [string] Cursed
+[346] [string] Cyber
+[347] [string] DF
+[348] [string] DataModel
+[349] [string] DescendantRemoving
+[350] [string] Deselected
+[351] [string] DesiredWidth
+[352] [string] Destroy
+[353] [string] Destroying
+[354] [string] Disabled
+[355] [string] Disconnect
+[356] [string] DisplayDistanceType
+[357] [string] DisplayName
+[358] [string] Divine
+[359] [string] Dj
+[360] [string] Doi Doi Do-20260725-1000
+[361] [string] DrawRectangle
+[362] [string] DropShadow
+[363] [string] Dropdown
+[364] [string] EF
+[365] [string] Easter
+[366] [string] Egg
+[367] [string] EggCity
+[368] [string] Eid
+[369] [string] Ej
+[370] [string] Empty
+[371] [string] Enabled
+[372] [string] EndTime
+[373] [string] Enum
+[374] [string] EnumItem
+[375] [string] EnumType
+[376] [string] Enums
+[377] [string] EvaluateStateMachine
+[378] [string] Extend
+[379] [string] Extinct
+[380] [string] FJ,bC
+[381] [string] FF
+[382] [string] Failed to find animal data: 
+[383] [string] Failed to find animal model: 
+[384] [string] Failed to load sound http://www.roblox.com/asset?id=183434101: Asset is not approved for the requester
+[385] [string] Failed to load sound rbxassetid://107780313531826: Asset has not been reviewed
+[386] [string] Failed to load sound rbxassetid://117037466554091: Asset is not approved for the requester
+[387] [string] FakeMethod
+[388] [string] FastOverhead.UseMotor6D
+[389] [string] Fe4rOnTop
+[390] [string] Festive 67
+[391] [string] FindFirstAncestorWhichIsA
+[392] [string] FindFirstChild
+[393] [string] FinishTime
+[394] [string] Fire
+[395] [string] FireServer
+[396] [string] Fj
+[397] [string] Folder
+[398] [string] Font
+[399] [string] FontFace
+[400] [string] FontStyle
+[401] [string] FontWeight
+[402] [string] ForceIdle
+[403] [string] Fragrama and Chocrama-20260725-1000
+[404] [string] Frame
+[405] [string] FriendsAllowed
+[406] [string] FromAxis
+[407] [string] FromName
+[408] [string] FromNormalId
+[409] [string] FromValue
+[410] [string] FuseMachine
+[411] [string] GF
+[412] [string] Gamepass
+[413] [string] Generation
+[414] [string] GetAsync
+[415] [string] GetAttribute
+[416] [string] GetAttributeChangedSignal
+[417] [string] GetChildren
+[418] [string] GetCore
+[419] [string] GetCoreGuiEnabled
+[420] [string] GetDescendants
+[421] [string] GetExtentsSize
+[422] [string] GetGeneration
+[423] [string] GetInstant
+[424] [string] GetLength
+[425] [string] GetPivot
+[426] [string] GetPositionOnCurve
+[427] [string] GetPositionOnCurveArcLength
+[428] [string] GetPropertyChangedSignal
+[429] [string] GetServerChannelRemote not available
+[430] [string] GetServerTimeNow
+[431] [string] GetService
+[432] [string] GetTagged
+[433] [string] GetTangentOnCurve
+[434] [string] GetTangentOnCurveArcLength
+[435] [string] Ginger Gerat-1766620800
+[436] [string] Ginger Gerat-1766682000
+[437] [string] Ginger Gerat-1766703600
+[438] [string] Ginger Gerat-1766768400
+[439] [string] Gj
+[440] [string] GlobalCountdown
+[441] [string] Gradients.DistributeLoad
+[442] [string] Gradients.DistributeLoadBudget
+[443] [string] GuiTemplates
+[444] [string] HF
+[445] [string] Header
+[446] [string] HeartLuckyBlockPackEndTime
+[447] [string] HideGeneration
+[448] [string] HideOverhead
+[449] [string] HideParentFeature
+[450] [string] Hj
+[451] [string] HorizontalAlignment
+[452] [string] Hotkeys
+[453] [string] HttpService
+[454] [string] Humanoid
+[455] [string] HumanoidDisplayDistanceType
+[456] [string] IF
+[457] [string] IconButton
+[458] [string] IconButton-BackgroundTransparency
+[459] [string] IconCorners
+[460] [string] IconGradient
+[461] [string] IconImage
+[462] [string] IconImage-Image
+[463] [string] IconImageCorner
+[464] [string] IconImageRatio
+[465] [string] IconImageRatio-AspectRatio
+[466] [string] IconImageScale
+[467] [string] IconLabel
+[468] [string] IconLabel-FontFace
+[469] [string] IconLabel-Text
+[470] [string] IconLabelContainer
+[471] [string] IconOverlay
+[472] [string] IconSpot
+[473] [string] IconSpot-Visible
+[474] [string] IconSpotGradient
+[475] [string] Idle
+[476] [string] IdleTrack
+[477] [string] If
+[478] [string] Ij
+[479] [string] Image
+[480] [string] ImageColor3
+[481] [string] ImageCombineType
+[482] [string] ImageTransparency
+[483] [string] Index
+[484] [string] Indicator-Visible
+[485] [string] Indonesia
+[486] [string] Info
+[487] [string] Inset
+[488] [string] Instance
+[489] [string] Inventory
+[490] [string] IsA
+[491] [string] IsBusy
+[492] [string] IsClient
+[493] [string] IsDescendantOf
+[494] [string] IsDuelsServer
+[495] [string] IsGrabbing
+[496] [string] IsNewPlayersServer
+[497] [string] IsOneOfOne
+[498] [string] IsPlotOwner
+[499] [string] IsServer
+[500] [string] IsStudio
+[501] [string] IsTradePlaza
+[502] [string] IsTsunamiServer
+[503] [string] JF
+[504] [string] JSONDecode
+[505] [string] Jj
+[506] [string] Jolly Jolly Sahur-1766620800
+[507] [string] Jolly Jolly Sahur-1766682000
+[508] [string] Jolly Jolly Sahur-1766703600
+[509] [string] Jolly Jolly Sahur-1766768400
+[510] [string] KF
+[511] [string] Key1
+[512] [string] KeyboardEnabled
+[513] [string] Kj
+[514] [string] LF
+[515] [string] La Anniversary Grande
+[516] [string] La Easter Grande
+[517] [string] La Lucky Grande
+[518] [string] La Romantic Grande
+[519] [string] La Summer Grande
+[520] [string] LabelContent
+[521] [string] LastCollect
+[522] [string] LastDailyDiscount
+[523] [string] LastFreeClaimed
+[524] [string] Layout
+[525] [string] Layout1
+[526] [string] LayoutOrder
+[527] [string] Left
+[528] [string] Light
+[529] [string] Liril√¨ Laril√†
+[530] [string] Lj
+[531] [string] LoadAnimation
+[532] [string] Looped
+[533] [string] Los Jolly Combinasionas-1766620800
+[534] [string] Los Jolly Combinasionas-1766682000
+[535] [string] Los Jolly Combinasionas-1766703600
+[536] [string] Los Jolly Combinasionas-1766768400
+[537] [string] Los Puggies-20260725-1000
+[538] [string] Los Spaghettis-20260725-1000
+[539] [string] LuckyBlock
+[540] [string] LuckyBlockEndTimer
+[541] [string] Luraph
+[542] [string] Luraph Script:
+[543] [string] Luraph Script:83: kslzD-=luraph:3: attempt to call a Instance value
+[544] [string] MF
+[545] [string] Magnitude
+[546] [string] Massless
+[547] [string] MaxIcons
+[548] [string] MaxWidth
+[549] [string] Menu
+[550] [string] MenuCanvasWidth
+[551] [string] MenuGap
+[552] [string] MenuIsOpen
+[553] [string] MenuUIListLayout
+[554] [string] Mf
+[555] [string] MinimumHeight
+[556] [string] MinimumWidth
+[557] [string] Mj
+[558] [string] Money Money Man-20260725-1000
+[559] [string] Money Money Reindeer-1766620800
+[560] [string] Money Money Reindeer-1766682000
+[561] [string] Money Money Reindeer-1766703600
+[562] [string] Money Money Reindeer-1766768400
+[563] [string] Multiply
+[564] [string] Mutation
+[565] [string] NF
+[566] [string] Nacho Spyder
+[567] [string] Name
+[568] [string] NextInteger
+[569] [string] NextNumber
+[570] [string] NextUnitVector
+[571] [string] Nj
+[572] [string] None
+[573] [string] Noo La Polizia-20260725-1000
+[574] [string] Normal
+[575] [string] NormalId
+[576] [string] Notice
+[577] [string] NoticeLabel
+[578] [string] OF
+[579] [string] OVERHEAD_ATTACHMENT
+[580] [string] Observe
+[581] [string] Oj
+[582] [string] OnAnimalDestroyed
+[583] [string] OnFollowingChanged
+[584] [string] Once
+[585] [string] OpenClose
+[586] [string] Optimisation.HumanoidBrainrotModels
+[587] [string] OutputRarityOdds
+[588] [string] Overhead
+[589] [string] OverheadYOffsetModifier
+[590] [string] OverlayUICorner
+[591] [string] Owner
+[592] [string] PF
+[593] [string] Padding
+[594] [string] PaddingCenter
+[595] [string] PaddingLeft
+[596] [string] PaddingRight
+[597] [string] PaidSpins
+[598] [string] Pandaccini Bananini
+[599] [string] Parent
+[600] [string] Part
+[601] [string] Part0
+[602] [string] Part1
+[603] [string] Path2D
+[604] [string] Phantom
+[605] [string] Phantom.DistributeLoad
+[606] [string] Phantom.DistributeLoadBudget
+[607] [string] Phantom.MaxUpdatesPerFrame
+[608] [string] PhantomSpinWheel
+[609] [string] PhantomTimer
+[610] [string] Pirulitoita Bicicleteira-20260725-1000
+[611] [string] PivotOffset
+[612] [string] PivotTo
+[613] [string] Pj
+[614] [string] PlatformStand
+[615] [string] Play
+[616] [string] PlayerList
+[617] [string] Plot/FixProximityPromptsVisibility
+[618] [string] Populate
+[619] [string] PopulateTraits
+[620] [string] Position
+[621] [string] PostAsync
+[622] [string] PostSimulation
+[623] [string] PreferredTransparency
+[624] [string] PrimaryPart
+[625] [string] QF
+[626] [string] Qf
+[627] [string] Qj
+[628] [string] Ql|∏
+[629] [string] READY!
+[630] [string] RF
+[631] [string] Radioactive
+[632] [string] Rain
+[633] [string] Random
+[634] [string] Rebirth
+[635] [string] RenderedMovingAnimal
+[636] [string] RequestAsync
+[637] [string] RequiresNeck
+[638] [string] ResolveDisplayName
+[639] [string] Right
+[640] [string] Rj
+[641] [string] RoadBrainrotIdle
+[642] [string] RoadTimer
+[643] [string] RootPriority
+[644] [string] RoseBasePackEndTime
+[645] [string] Rotation
+[646] [string] RotationSpeed
+[647] [string] RunService
+[648] [string] SF
+[649] [string] STEAKSBIG
+[650] [string] SantaMerchantService/LeavingTimestamp
+[651] [string] Scale
+[652] [string] ScreenGui
+[653] [string] Selected
+[654] [string] Selection
+[655] [string] SelectionGradient
+[656] [string] SetAttribute
+[657] [string] SetControlPoints
+[658] [string] SetCore
+[659] [string] SetCoreGuiEnabled
+[660] [string] SetState
+[661] [string] Settings
+[662] [string] Sf
+[663] [string] Shuffle
+[664] [string] Size
+[665] [string] Sj
+[666] [string] Snow
+[667] [string] Speed
+[668] [string] Spins
+[669] [string] StPatricks
+[670] [string] Starfall
+[671] [string] StartTime
+[672] [string] StarterPlayer
+[673] [string] SteakTruckRestock
+[674] [string] Steakini Fattini
+[675] [string] Steal
+[676] [string] Stealing
+[677] [string] Stop
+[678] [string] Stoppo Luminino-20260725-1000
+[679] [string] Strawberry
+[680] [string] Summer
+[681] [string] Swaggy Bros
+[682] [string] TEST-LOAD-1
+[683] [string] TF
+[684] [string] Tacorillo Crocodillo
+[685] [string] TargetPlayer
+[686] [string] Text
+[687] [string] TextSize
+[688] [string] TextStrokeTransparency
+[689] [string] The current thread cannot call 'PluginManager' (lacking capability Plugin)
+[690] [string] The debug library is required on Luau platforms. Please open a support ticket.
+[691] [string] The metatable is locked
+[692] [string] Tim Cheese
+[693] [string] Time
+[694] [string] Timer
+[695] [string] Tj
+[696] [string] ToString
+[697] [string] Traits
+[698] [string] Trove
+[699] [string] TryIndex
+[700] [string] Tuff Toucan
+[701] [string] UDim
+[702] [string] UF
+[703] [string] UICorner
+[704] [string] UID
+[705] [string] UUID
+[706] [string] Uf
+[707] [string] Uj
+[708] [string] Update-07/18/2026
+[709] [string] UseServerAuthority
+[710] [string] User
+[711] [string] UserId
+[712] [string] VF
+[713] [string] VIP
+[714] [string] ValentinesPool/Chicleteirina Bicicleteirina
+[715] [string] ValentinesPool/Dragon Cannelloni
+[716] [string] ValentinesPool/Garama and Madundung
+[717] [string] ValentinesPool/Ketchuru and Musturu
+[718] [string] ValentinesPool/La Grande Combinasion
+[719] [string] ValentinesPool/Meowl
+[720] [string] ValentinesPool/Money Money Puggy
+[721] [string] ValentinesPool/Nuclearo Dinossauro
+[722] [string] ValentinesPool/Skibidi Toilet
+[723] [string] ValentinesPool/Strawberry Elephant
+[724] [string] ValentinesPool/Tang Tang Keletang
+[725] [string] Value
+[726] [string] Values
+[727] [string] Vector2
+[728] [string] Vf
+[729] [string] Viewing
+[730] [string] Visible
+[731] [string] Vj
+[732] [string] WF
+[733] [string] WLn}kW[N
+[734] [string] WaitForChild
+[735] [string] Walk
+[736] [string] WalkSpeed
+[737] [string] WalkTrack
+[738] [string] Walking
+[739] [string] Water
+[740] [string] WeekendMerchantRefreshTime
+[741] [string] Weld
+[742] [string] WeldConstraint
+[743] [string] Widget
+[744] [string] Widget-BorderSize
+[745] [string] Widget-DesiredWidth
+[746] [string] Widget-MinimumHeight
+[747] [string] Widget-MinimumWidth
+[748] [string] Widget-Visible
+[749] [string] Witching Hour
+[750] [string] Wj
+[751] [string] Workspace
+[752] [string] WritePixelsBuffer
+[753] [string] X-1784974252
+[754] [string] X-1784974254
+[755] [string] XF
+[756] [string] Xj
+[757] [string] YF
+[758] [string] Yf
+[759] [string] Yj
+[760] [string] Your Lua environment does not support load or loadstring, therefore you are unable to use Luraph's 'LPH_NO_UPVALUES' macro.
+[761] [string] ZF
+[762] [string] Zb0qhj(b
+[763] [string] Zj
+[764] [string] [42, "test", false, 99, true, [11, null, "abc"], null, ["z"]]
+[765] [string] [C]
+[766] [string] [STREAMING ENABLED BUILD]: PersistentModels loaded
+[767] [string] [dump] script executed: true
+[768] [string] [dump] taking pre-execution snapshot
+[769] [string] _F
+[770] [string] __dead__
+[771] [string] __index
+[772] [string] __inflight__
+[773] [string] __mode
+[774] [string] __none
+[775] [string] __tostring
+[776] [string] _cleaning
+[777] [string] _connected
+[778] [string] _fn
+[779] [string] _handlerListHead
+[780] [string] _hotkey_
+[781] [string] _j
+[782] [string] _next
+[783] [string] _objects
+[784] [string] _signal
+[785] [string] aF
+[786] [string] abc
+[787] [string] abs
+[788] [string] acos
+[789] [string] activeState
+[790] [string] add
+[791] [string] adornee
+[792] [string] adorneePosition
+[793] [string] adorneeType
+[794] [string] af
+[795] [string] aj
+[796] [string] alignment
+[797] [string] alignmentChanged
+[798] [string] alignmentHolder
+[799] [string] appearance
+[800] [string] appliedTheme
+[801] [string] arshift
+[802] [string] asin
+[803] [string] assert
+[804] [string] assets
+[805] [string] atan
+[806] [string] atan2
+[807] [string] attempt to call a Instance value
+[808] [string] bF
+[809] [string] band
+[810] [string] bindedEvents
+[811] [string] bindedToggleKeys
+[812] [string] bit32
+[813] [string] bj
+[814] [string] bnot
+[815] [string] boolean
+[816] [string] bor
+[817] [string] btest
+[818] [string] buffer
+[819] [string] bufferedChanges
+[820] [string] bxor
+[821] [string] byte
+[822] [string] byteswap
+[823] [string] cF
+[824] [string] cSaiEGJW
+[825] [string] cXw1ksbl
+[826] [string] cachedCollectives
+[827] [string] cachedInstances
+[828] [string] cachedNamesToInstances
+[829] [string] callback must return a function
+[830] [string] cancel
+[831] [string] caption
+[832] [string] captionJanitor
+[833] [string] captionLastClosedClock
+[834] [string] captionText
+[835] [string] category
+[836] [string] ceil
+[837] [string] cf
+[838] [string] change
+[839] [string] char
+[840] [string] charpattern
+[841] [string] chatWasPreviouslyActive
+[842] [string] childIconsDict
+[843] [string] childThemeModified
+[844] [string] cj
+[845] [string] clamp
+[846] [string] clean
+[847] [string] clear
+[848] [string] clock
+[849] [string] clone
+[850] [string] close
+[851] [string] codepoint
+[852] [string] codes
+[853] [string] concat
+[854] [string] connected
+[855] [string] copy
+[856] [string] coroutine
+[857] [string] cos
+[858] [string] cosh
+[859] [string] countlz
+[860] [string] countrz
+[861] [string] create
+[862] [string] createFastOverhead
+[863] [string] creationTime
+[864] [string] currentline
+[865] [string] customBehaviours
+[866] [string] dF
+[867] [string] day
+[868] [string] de53c8aa-9bc0-4ae4-99fd-fb843c2ed075
+[869] [string] debug
+[870] [string] defer
+[871] [string] deg
+[872] [string] delay
+[873] [string] deselect
+[874] [string] deselectWhenOtherIconSelected
+[875] [string] deselected
+[876] [string] destroy
+[877] [string] desynchronize
+[878] [string] dj
+[879] [string] dropdownChildAdded
+[880] [string] dropdownIcons
+[881] [string] dropdownJanitor
+[882] [string] dropdownSet
+[883] [string] dumpcodesize
+[884] [string] dumpheap
+[885] [string] dumprefs
+[886] [string] e212faa3-0d7c-415d-a73a-ddaafb1b1e66
+[887] [string] eF
+[888] [string] eafa4292-e169-42c1-8f75-1eea1b4f172f
+[889] [string] ej
+[890] [string] enabled
+[891] [string] endNotices
+[892] [string] error
+[893] [string] error in error handling
+[894] [string] error while calling observeTag("%*") callback:%*
+%*
+[895] [string] exp
+[896] [string] extract
+[897] [string] extrapolate
+[898] [string] f5c06a7e-da76-4dd8-8e3d-be21150f0fc9
+[899] [string] fF
+[900] [string] fakeToggleKeyChanged
+[901] [string] ff
+[902] [string] fill
+[903] [string] find
+[904] [string] fj
+[905] [string] floor
+[906] [string] fmod
+[907] [string] foreach
+[908] [string] foreachi
+[909] [string] format
+[910] [string] freeze
+[911] [string] frexp
+[912] [string] fromAxis
+[913] [string] fromAxisAngle
+[914] [string] fromExisting
+[915] [string] fromNormalId
+[916] [string] fromstring
+[917] [string] function
+[918] [string] gF
+[919] [string] game
+[920] [string] getClippedContainer
+[921] [string] getIconByUID
+[922] [string] getInstance
+[923] [string] getModel
+[924] [string] getStateGroup
+[925] [string] getThemeValue
+[926] [string] getconstant
+[927] [string] getconstants
+[928] [string] getfenv
+[929] [string] getinfo
+[930] [string] getmemorycategory
+[931] [string] getmetatable
+[932] [string] getn
+[933] [string] getproto
+[934] [string] getprotos
+[935] [string] getrawmetatable
+[936] [string] getregistry
+[937] [string] getstack
+[938] [string] getupvalue
+[939] [string] getupvalues
+[940] [string] gj
+[941] [string] gl
+[942] [string] gmatch
+[943] [string] graphemes
+[944] [string] gsub
+[945] [string] gui
+[946] [string] guiTemplate
+[947] [string] hF
+[948] [string] hasBuffered
+[949] [string] hj
+[950] [string] hour
+[951] [string] http://www.roblox.com/asset/?id=
+[952] [string] huge
+[953] [string] iF
+[954] [string] iconModule
+[955] [string] identifyexecutor
+[956] [string] ij
+[957] [string] indicatorSet
+[958] [string] info
+[959] [string] insert
+[960] [string] instance
+[961] [string] invalid argument #1 to 'getfenv' (invalid level)
+[962] [string] ipairs
+[963] [string] isEnabled
+[964] [string] isSelected
+[965] [string] isViewing
+[966] [string] isViewportFrame
+[967] [string] iscclosure
+[968] [string] isdst
+[969] [string] isfinite
+[970] [string] isfrozen
+[971] [string] isinf
+[972] [string] islclosure
+[973] [string] isnan
+[974] [string] isvalidlevel
+[975] [string] isvararg
+[976] [string] isyieldable
+[977] [string] jF
+[978] [string] janitor
+[979] [string] jj
+[980] [string] joinJanitor
+[981] [string] joinMenu
+[982] [string] joinedFrame
+[983] [string] joinedParent
+[984] [string] kF
+[985] [string] key
+[986] [string] kf
+[987] [string] kj
+[988] [string] kvs
+[989] [string] lF
+[990] [string] lastPositionCheck
+[991] [string] lastUpdate
+[992] [string] lastlinedefined
+[993] [string] ldexp
+[994] [string] len
+[995] [string] lerp
+[996] [string] linedefined
+[997] [string] lj
+[998] [string] loadmodule
+[999] [string] loadstring
+[1000] [string] locked
+[1001] [string] log
+[1002] [string] log10
+[1003] [string] lower
+[1004] [string] lrotate
+[1005] [string] lshift
+[1006] [string] mF
+[1007] [string] main
+[1008] [string] mainTransparency
+[1009] [string] map
+[1010] [string] match
+[1011] [string] matches
+[1012] [string] max
+[1013] [string] maxn
+[1014] [string] menuChildAdded
+[1015] [string] menuIcons
+[1016] [string] menuJanitor
+[1017] [string] menuSet
+[1018] [string] message
+[1019] [string] messageType
+[1020] [string] messagesPerMinute
+[1021] [string] min
+[1022] [string] mj
+[1023] [string] mkbn3Qmu
+[1024] [string] modf
+[1025] [string] modifyTheme
+[1026] [string] month
+[1027] [string] motor6D
+[1028] [string] move
+[1029] [string] nF
+[1030] [string] name
+[1031] [string] namewhat
+[1032] [string] nan
+[1033] [string] new
+[1034] [string] next
+[1035] [string] nfcnormalize
+[1036] [string] nfdnormalize
+[1037] [string] nil
+[1038] [string] nj
+[1039] [string] noise
+[1040] [string] noticeChanged
+[1041] [string] noticeStarted
+[1042] [string] notices
+[1043] [string] notified
+[1044] [string] nparams
+[1045] [string] number
+[1046] [string] oF
+[1047] [string] observeAttribute
+[1048] [string] observeProperty
+[1049] [string] offset
+[1050] [string] oj
+[1051] [string] one
+[1052] [string] originalAlignment
+[1053] [string] os
+[1054] [string] overlayDisabled
+[1055] [string] pF
+[1056] [string] pack
+[1057] [string] packsize
+[1058] [string] pairs
+[1059] [string] parentIconUID
+[1060] [string] part
+[1061] [string] passed
+[1062] [string] path
+[1063] [string] pcall
+[1064] [string] phi
+[1065] [string] pi
+[1066] [string] pj
+[1067] [string] pl
+[1068] [string] playerlistWasPreviouslyActive
+[1069] [string] posVelocity
+[1070] [string] pow
+[1071] [string] print
+[1072] [string] profilebegin
+[1073] [string] profileend
+[1074] [string] q8vX2oaz
+[1075] [string] qF
+[1076] [string] qixFmwu#
+[1077] [string] qj
+[1078] [string] rF
+[1079] [string] rad
+[1080] [string] random
+[1081] [string] randomseed
+[1082] [string] rawget
+[1083] [string] rawset
+[1084] [string] rbxasset://fonts/families/FredokaOne.json
+[1085] [string] rbxasset://textures/ui/TopBar/inventoryOff.png
+[1086] [string] rbxasset://textures/ui/TopBar/inventoryOn.png
+[1087] [string] readbits
+[1088] [string] readf32
+[1089] [string] readf64
+[1090] [string] readi16
+[1091] [string] readi32
+[1092] [string] readi8
+[1093] [string] readstring
+[1094] [string] readu16
+[1095] [string] readu32
+[1096] [string] readu8
+[1097] [string] relativeToAdornee
+[1098] [string] remove
+[1099] [string] removeModificationWith
+[1100] [string] rep
+[1101] [string] replace
+[1102] [string] require
+[1103] [string] resetmemorycategory
+[1104] [string] resizingComplete
+[1105] [string] resume
+[1106] [string] reverse
+[1107] [string] rj
+[1108] [string] rotVelocity
+[1109] [string] round
+[1110] [string] rq2s#ylp
+[1111] [string] rrotate
+[1112] [string] rshift
+[1113] [string] running
+[1114] [string] sF
+[1115] [string] screenGui
+[1116] [string] script
+[1117] [string] sec
+[1118] [string] select
+[1119] [string] selected
+[1120] [string] setCaption
+[1121] [string] setState
+[1122] [string] setconstant
+[1123] [string] setfenv
+[1124] [string] setmemorycategory
+[1125] [string] setmetatable
+[1126] [string] setstack
+[1127] [string] setupvalue
+[1128] [string] sf
+[1129] [string] short_src
+[1130] [string] sign
+[1131] [string] signal
+[1132] [string] sin
+[1133] [string] singleClickJanitor
+[1134] [string] sinh
+[1135] [string] sj
+[1136] [string] slnaf
+[1137] [string] sort
+[1138] [string] source
+[1139] [string] spawn
+[1140] [string] spawnTime
+[1141] [string] split
+[1142] [string] sqrt
+[1143] [string] sqrt2
+[1144] [string] startMenuUpdate
+[1145] [string] stateChanged
+[1146] [string] status
+[1147] [string] stock
+[1148] [string] string
+[1149] [string] stroke
+[1150] [string] studsOffsetY
+[1151] [string] sub
+[1152] [string] synchronize
+[1153] [string] tF
+[1154] [string] table
+[1155] [string] tan
+[1156] [string] tanh
+[1157] [string] task
+[1158] [string] tau
+[1159] [string] test
+[1160] [string] themesJanitor
+[1161] [string] timestamp
+[1162] [string] tj
+[1163] [string] toggleItems
+[1164] [string] toggleKeyAdded
+[1165] [string] toggled
+[1166] [string] tonumber
+[1167] [string] tostring
+[1168] [string] totalNotices
+[1169] [string] traceback
+[1170] [string] traits
+[1171] [string] tries
+[1172] [string] type
+[1173] [string] typeof
+[1174] [string] uF
+[1175] [string] uf
+[1176] [string] uj
+[1177] [string] unpack
+[1178] [string] updateInterval
+[1179] [string] updateMenu
+[1180] [string] updateSize
+[1181] [string] upper
+[1182] [string] userdata
+[1183] [string] utf8
+[1184] [string] vF
+[1185] [string] validlevel
+[1186] [string] viewingEnded
+[1187] [string] viewingStarted
+[1188] [string] vj
+[1189] [string] wF
+[1190] [string] wait
+[1191] [string] warn
+[1192] [string] wday
+[1193] [string] what
+[1194] [string] widget
+[1195] [string] wj
+[1196] [string] workspace
+[1197] [string] wrap
+[1198] [string] writebits
+[1199] [string] writef32
+[1200] [string] writef64
+[1201] [string] writei16
+[1202] [string] writei32
+[1203] [string] writei8
+[1204] [string] writestring
+[1205] [string] writeu16
+[1206] [string] writeu32
+[1207] [string] writeu8
+[1208] [string] x3
+[1209] [string] xAxis
+[1210] [string] xF
+[1211] [string] xj
+[1212] [string] xpcall
+[1213] [string] yAxis
+[1214] [string] yF
+[1215] [string] yday
+[1216] [string] year
+[1217] [string] yf
+[1218] [string] yield
+[1219] [string] yj
+[1220] [string] zAxis
+[1221] [string] zF
+[1222] [string] zero
+[1223] [string] zf
+[1224] [string] zj
+[1225] [string] { }
+[1226] [string] ~3?Qz0s}
